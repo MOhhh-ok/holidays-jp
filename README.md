@@ -13,7 +13,7 @@ npm i @masa-dev/holidays-jp
 ## Usage
 
 ```typescript
-import { Shukujitsu } from 'shukujitsu';
+import { HolidaysJp } from '@masa-dev/holidays-jp';
 
 async function main(){
     // インスタンスを作成
